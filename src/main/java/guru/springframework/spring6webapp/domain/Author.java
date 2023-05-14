@@ -45,7 +45,7 @@ public class Author {
     this.firstName = firstName;
   }
 
-  public String getLastString() {
+  public String getLastName() {
     return lastName;
   }
 
